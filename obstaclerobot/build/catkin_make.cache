@@ -1,0 +1,2 @@
+obstacle_avoidance
+-DCATKIN_DEVEL_PREFIX=/home/binto/anandhu/devel -DCMAKE_INSTALL_PREFIX=/home/binto/anandhu/install -G Unix Makefiles
